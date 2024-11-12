@@ -1,0 +1,8 @@
+First create the virtual enviroment by openning the terminal and type c:current_folder> python -m venv .venv
+now we need to activate it by entering c:current_folder> venv\Scripts\activate
+
+now that it is working we need to install three librares
+python -m pip install pillow
+python -m pip install Tkinter
+python -m pip install os
+
